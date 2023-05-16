@@ -1,12 +1,21 @@
 # Curso de desenvolvimento com Java
-Fundamentos Java, Orientação a Objeto, Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate e mais
 
-- Conhecer a linguagem Java do zero ao avançado.
-- Fundamentos de programação sólidos
-- Orientação a Objetos e os seus princípios
-- Banco de Dados e Frameworks de persistência como JPA
-- Programação Funcional com Java
-- Desenvolver WebService com Spring Boot e Banco de Dados
-- Java Desktop: Swing e JavaFX
-- Testes Unitários com JUnit5
-- Desenvolver projetos reais
+- Algoritmo e Estrutura de Dados
+- Fundamentos da Linguagem Java
+- Estruturas de Controle
+- Classes, Objetos, Métodos
+- Arrays e Collections
+- Orientação a Objeto
+- Encapsulamento, Herança, Polimorfismo e Abstração
+- Lambdas
+- Stream API
+- Tratamento de Exceções
+- JUnit5
+- Generics
+- Java Desktop com Swing
+- Banco de Dados Relacional e JDBC
+- JPA (Hibernate)
+- Modularidade em Java
+- JavaFX
+- Spring Boot
+- Banco de Dados NÃO Relacional (NoSQL)
