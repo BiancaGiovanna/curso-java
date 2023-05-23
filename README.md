@@ -1,0 +1,21 @@
+# Curso de desenvolvimento com Java
+
+- Algoritmo e Estrutura de Dados
+- Fundamentos da Linguagem Java
+- Estruturas de Controle
+- Classes, Objetos, Métodos
+- Arrays e Collections
+- Orientação a Objeto
+- Encapsulamento, Herança, Polimorfismo e Abstração
+- Lambdas
+- Stream API
+- Tratamento de Exceções
+- JUnit5
+- Generics
+- Java Desktop com Swing
+- Banco de Dados Relacional e JDBC
+- JPA (Hibernate)
+- Modularidade em Java
+- JavaFX
+- Spring Boot
+- Banco de Dados NÃO Relacional (NoSQL)
